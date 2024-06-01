@@ -8,6 +8,7 @@
     "start": "parcel",
     "build": "parcel build",
     "gh-pages-build": "parcel build --public-url ."
+    "homepage": ""
   },
   "repository": {
     "type": "git",
